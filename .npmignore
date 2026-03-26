@@ -1,0 +1,6 @@
+.*
+src/
+consumer-demo/
+*.config.js
+index.html
+example-main.jsx

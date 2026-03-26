@@ -1,0 +1,25 @@
+/**
+ * @typedef {Object} LoaderOverlayV2Props
+ * @property {boolean} [show=true]
+ * @property {string} [type='spinner']
+ * @property {string} [size='md']
+ * @property {string} [variant='dark']
+ * @property {string} [color='#a78bfa']
+ * @property {string} [message='Loading...']
+ * @property {string} [submessage='']
+ * @property {boolean} [fullScreen=false]
+ * @property {number} [zIndex=10]
+ * @property {number} [opacity=1]
+ * @property {number} [blur=8]
+ * @property {boolean} [showProgress=false]
+ * @property {number} [progress=0]
+ * @property {boolean} [closable=false]
+ * @property {Function} [onClose]
+ * @property {string} [position='center']
+ * @property {boolean} [animateIn=true]
+ * @property {number} [timeout=0]
+ * @property {React.ReactNode} [children=null]
+ * @property {boolean} [closeOnOutsideClick=false]
+ * @property {Function} [onOutsideClick]
+ */
+export {};
