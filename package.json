@@ -1,8 +1,18 @@
 {
   "name": "loader-overlay",
-  "version": "2.1.0",
+  "version": "1.0.0",
   "type": "module",
   "description": "Drop-in React overlay loader — 5 animation types, full theme control, progress tracking, and zero dependencies.",
+  "author": "Swapnil Patil (https://github.com/swapnilhpatil)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swapnilhpatil/loader-overlay.git"
+  },
+  "homepage": "https://github.com/swapnilhpatil/loader-overlay#readme",
+  "bugs": {
+    "url": "https://github.com/swapnilhpatil/loader-overlay/issues"
+  },
   "main": "dist/loader-overlay.umd.js",
   "module": "dist/loader-overlay.es.js",
   "types": "dist/loader-overlay.d.ts",

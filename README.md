@@ -12,6 +12,14 @@
 
 ---
 
+## 🌐 Live Demo
+
+👉 **[Try the interactive playground →](https://loader-overlay-plugin.vercel.app/)**
+
+![Loader Overlay Demo](demo-screenshot.png)
+
+---
+
 ## ✨ Features
 
 - 🎡 **5 loader types** — `spinner`, `dots`, `pulse`, `ring`, `bar`
