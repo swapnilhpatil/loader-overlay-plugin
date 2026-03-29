@@ -70,8 +70,8 @@ We provide a dedicated `consumer-demo` application directly in the repository to
 ### Using the Built-in Consumer Demo
 
 ```bash
-git clone https://github.com/swapnilhpatil/loader-overlay.git
-cd loader-overlay
+git clone https://github.com/swapnilhpatil/loader-overlay-plugin.git
+cd loader-overlay-plugin
 npm install && npm run build
 
 # Navigate to the standalone consumer-demo test application
@@ -102,8 +102,8 @@ npm install ../loader-overlay/loader-overlay-1.0.0.tgz
 ### Install from GitHub
 
 ```bash
-npm install swapnilhpatil/loader-overlay        # latest
-npm install swapnilhpatil/loader-overlay#v1.0.0 # specific tag
+npm install swapnilhpatil/loader-overlay-plugin        # latest
+npm install swapnilhpatil/loader-overlay-plugin#v1.0.0 # specific tag
 ```
 
 > See [SETUP_GUIDE.md](SETUP_GUIDE.md) for the full local installation guide including workspaces, path aliases, and pnpm/yarn link methods.
