@@ -96,7 +96,7 @@ export default function App() {
             fontFamily: "monospace",
           }}
         >
-          v2.1.0
+          v1.0.1
         </span>
         <div style={{ flex: 1 }} />
         <span
